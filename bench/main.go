@@ -108,7 +108,6 @@ func benchmark(n int) (int64, int64, int64, int64, int64, int) {
 
 	time.Sleep(time.Millisecond * 500)
 
-
 	signatures := make([]threshold.RingSignature, trials)
 	var totalSigningTime time.Duration
 	var totalVerificationTime time.Duration
