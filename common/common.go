@@ -14,7 +14,7 @@ import (
 	"math/big"
 	"math/bits"
 
-	"github.com/IBM/mathlib"
+	math "github.com/IBM/mathlib"
 	common2 "github.com/IBM/mathlib/driver/common"
 	"github.com/consensys/gnark-crypto/ecc/bn254/fr"
 )
