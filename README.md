@@ -10,3 +10,18 @@ The folder/package structure is as follows:
 - `dory`: Implements the non privacy-preserving technique of the [Dory paper](https://eprint.iacr.org/2020/1274.pdf), which is used in a black box manner by the `threshold` package.
 - `tag`: Implements the tag proof of the DualDory paper, used by the `threshold` package.
 - `threshold`: Implements our ring signature, as well as a threshold ring signature.
+
+
+How to run the tests? 
+------------------------
+Run `go test ./...` in the top level folder.
+
+
+How to build and run the benchmark?
+--------------------------------------
+From the top level folder, execute:
+```
+cd bench
+go build
+./bench
+```
