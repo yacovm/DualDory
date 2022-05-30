@@ -14,7 +14,7 @@ The folder/package structure is as follows:
 
 How to run the tests? 
 ------------------------
-Run `go test ./...` in the top level folder.
+Run `go test ./...` from the top level folder.
 
 
 How to build and run the benchmark?
