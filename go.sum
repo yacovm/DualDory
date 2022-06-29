@@ -1,5 +1,3 @@
-github.com/IBM/mathlib v0.0.0-20220414125002-6f78dce8f91c h1:lM14BP0219xYH0wSthXTcK0ARbmw0vCGxysyJSDWKmk=
-github.com/IBM/mathlib v0.0.0-20220414125002-6f78dce8f91c/go.mod h1:WZGhleRZVSAg25iKkiWXHacTkui2CY1cyJMBOgpQwh8=
 github.com/consensys/bavard v0.1.8-0.20210915155054-088da2f7f54a/go.mod h1:9ItSMtA/dXMAiL7BG6bqW2m3NdSEObYWoH223nGHukI=
 github.com/consensys/bavard v0.1.10/go.mod h1:9ItSMtA/dXMAiL7BG6bqW2m3NdSEObYWoH223nGHukI=
 github.com/consensys/gnark-crypto v0.6.0/go.mod h1:PicAZJP763+7N9LZFfj+MquTXq98pwjD6l8Ry8WdHSU=
@@ -25,6 +23,8 @@ github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/stretchr/testify v1.7.1 h1:5TQK59W5E3v0r2duFAb7P95B6hEeOyEnHRa8MjYSMTY=
 github.com/stretchr/testify v1.7.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
+github.com/yacovm/mathlib v0.0.0-20220621105307-363d8078e73c h1:zPebVPIoo7awmvd4IldSJqZgtnemML+WcDAyrryOoYA=
+github.com/yacovm/mathlib v0.0.0-20220621105307-363d8078e73c/go.mod h1:WZGhleRZVSAg25iKkiWXHacTkui2CY1cyJMBOgpQwh8=
 golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2/go.mod h1:T9bdIzuCu7OtxOm1hfPfRQxPLYneinmdGuTeoZ9dtd4=
 golang.org/x/crypto v0.0.0-20220321153916-2c7772ba3064/go.mod h1:IxCIyHEi3zRg3s0A5j5BB6A9Jmi73HwBIUl50j+osU4=
 golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4 h1:kUhD7nTDoI3fVd9G4ORWrbV5NY0liEs/Jg2pv5f+bBA=

@@ -3,10 +3,12 @@ module privacy-perserving-audit
 go 1.17
 
 require (
-	github.com/IBM/mathlib v0.0.0-20220414125002-6f78dce8f91c
+	github.com/IBM/mathlib v0.0.0-00010101000000-000000000000
 	github.com/consensys/gnark-crypto v0.7.0
 	github.com/stretchr/testify v1.7.1
 )
+
+replace github.com/IBM/mathlib => github.com/yacovm/mathlib v0.0.0-20220621105307-363d8078e73c
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
